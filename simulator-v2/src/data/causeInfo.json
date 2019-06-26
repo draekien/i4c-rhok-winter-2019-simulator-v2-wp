@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "cause": "Underprivileged Youth",
+    "charity": "Life for Koori Kids",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Quality Meals",
+        "amount": 52
+      },
+      {
+        "id": 2,
+        "name": "Educational Sessions",
+        "amount": 11
+      },
+      {
+        "id": 3,
+        "name": "Crisis Interventions",
+        "amount": 21
+      }
+    ],
+    "postTxt": ""
+  },
+  {
+    "id": 2,
+    "cause": "Refugees in Australia",
+    "charity": "St Francis Social Services",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Safe Sleeps",
+        "amount": 16
+      },
+      {
+        "id": 2,
+        "name": "Food and Grocery Stamps",
+        "amount": 1.6
+      },
+      {
+        "id": 3,
+        "name": "Dollars in Financial Support",
+        "amount": 93
+      }
+    ],
+    "postTxt": "As well as access to English Classes, Employement Training, and a Local Mentor"
+  },
+  {
+    "id": 3,
+    "cause": "Child Slavery",
+    "charity": "Connecting Hands",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Months Vocational Training",
+        "amount": 6
+      },
+      {
+        "id": 2,
+        "name": "Months Accommodation",
+        "amount": 6
+      },
+      {
+        "id": 3,
+        "name": "Social support to aid integration",
+        "amount": 0
+      }
+    ],
+    "postTxt": "As well as Medical and Psychological Care"
+  },
+  {
+    "id": 4,
+    "cause": "Woman and Domestic Violence",
+    "charity": "Port Macquarie Hastings Specialist Service",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Victims with counselling support",
+        "amount": 0.6
+      },
+      {
+        "id": 2,
+        "name": "Relocations to new homes",
+        "amount": 0.34
+      }
+    ],
+    "postTxt": ""
+  },
+  {
+    "id": 5,
+    "cause": "Global Poverty",
+    "charity": "Against Malaria Foundation",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Hundred Long lasting insecticidal nets",
+        "amount": 3
+      },
+      {
+        "id": 2,
+        "name": "Lives saved by Malaria prevention",
+        "amount": 0.2
+      }
+    ],
+    "postTxt": "As well as addressing the UN's global goals relating to Malaria elimination"
+  },
+  {
+    "id": 6,
+    "cause": "Youth at Risk",
+    "charity": "Streetwork Incorporated",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Mentor for 6 Months",
+        "amount": 1
+      },
+      {
+        "id": 2,
+        "name": "Support after Crises",
+        "amount": 6
+      },
+      {
+        "id": 3,
+        "name": "Advice to get back on track",
+        "amount": 0
+      }
+    ],
+    "postTxt": ""
+  },
+  {
+    "id": 7,
+    "cause": "Social Enterprise",
+    "charity": "The Bread and Butter Project",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Weeks of full time work, at $634.70/wk",
+        "amount": 3.6
+      },
+      {
+        "id": 2,
+        "name": "On site training towards TAFE accreditation in food proessing",
+        "amount": 0
+      },
+      {
+        "id": 3,
+        "name": "One-on-one English tuition and counselling services",
+        "amount": 0.6
+      }
+    ],
+    "postTxt": "As well as support in obtaining full time employment after becoming qualified"
+  },
+  {
+    "id": 8,
+    "cause": "Mental Health",
+    "charity": "PANDA",
+    "achieves": [
+      {
+        "id": 1,
+        "name": "Hours of the national call centre",
+        "amount": 1.12
+      },
+      {
+        "id": 2,
+        "name": "On site training towards TAFE accreditation in food proessing",
+        "amount": 0
+      },
+      {
+        "id": 3,
+        "name": "Health service professionals educated on perinatal anxiety and depression",
+        "amount": 1.2
+      }
+    ],
+    "postTxt": ""
+  }
+]
