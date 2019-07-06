@@ -7,6 +7,8 @@ import { Provider } from "react-redux";
 import store from "./stores/store";
 
 import CauseForm from "./components/CauseForm";
+import ContributionForm from "./components/ContributionForm";
+import Simulation from "./components/Simulation";
 
 class App extends Component {
   render() {
@@ -14,6 +16,8 @@ class App extends Component {
       <Provider store={store}>
         <div className="App">
           <CauseForm />
+          <ContributionForm />
+          <Simulation />
         </div>
       </Provider>
     );

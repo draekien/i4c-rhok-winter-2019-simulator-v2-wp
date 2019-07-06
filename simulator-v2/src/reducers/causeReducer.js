@@ -1,8 +1,9 @@
-import { FETCH_CAUSES, SET_CAUSE } from "../actions/types";
+import { FETCH_CAUSES, SET_CAUSE, SET_CONTRIBUTION, SET_DEFAULT_CAUSE } from "../actions/types";
 
 const initialState = {
   items: [],
-  item: {}
+  item: {},
+  contribution: {}
 };
 
 export default function(state = initialState, action) {
@@ -12,7 +13,21 @@ export default function(state = initialState, action) {
         ...state,
         items: action.payload
       };
-      break;
+    case SET_CAUSE:
+      return {
+        ...state,
+        item: action.payload
+      };
+    case SET_DEFAULT_CAUSE:
+      return {
+        ...state,
+        item: action.payload
+      };
+    case SET_CONTRIBUTION:
+      return {
+        ...state,
+        contribution: action.payload
+      };
     default:
       return state;
   }

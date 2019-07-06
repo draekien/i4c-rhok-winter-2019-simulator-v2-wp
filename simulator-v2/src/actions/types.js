@@ -1,2 +1,4 @@
 export const FETCH_CAUSES = "FETCH_CAUSES";
 export const SET_CAUSE = "SET_CAUSE";
+export const SET_CONTRIBUTION = "SET_CONTRIBUTION";
+export const SET_DEFAULT_CAUSE = "SET_DEFAULT_CAUSE";
